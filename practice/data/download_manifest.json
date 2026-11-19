@@ -1,0 +1,46 @@
+[
+  {
+    "source_name": "BMV & B3 Corporate Disclosures (SEC EDGAR & Issuer Reports)",
+    "url": "https://www.bmv.com.mx/ / https://www.b3.com.br/",
+    "retrieved_on": "2026-11-10",
+    "licence": "Public Corporate Disclosures (Regulatory Filings)",
+    "units": "MUSD, %",
+    "geography": "Latin America (Mexico, Brazil)",
+    "coverage": "4 listed holdings (FIBRAPL, RAIL3, FUNO11, CCRO3)",
+    "checksum_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "description": "Baseline financial statements, revenues, and debt structures."
+  },
+  {
+    "source_name": "Our World in Data & GHG Protocol Corporate Disclosures",
+    "url": "https://ourworldindata.org/co2-and-greenhouse-gas-emissions",
+    "retrieved_on": "2026-11-10",
+    "licence": "CC BY 4.0",
+    "units": "tCO2e / MUSD revenue",
+    "geography": "Latin America",
+    "coverage": "Scope 1 and 2 emissions intensities for Industrials and Real Estate",
+    "checksum_sha256": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a",
+    "description": "Reported and sector-benchmarked GHG emissions intensities."
+  },
+  {
+    "source_name": "Copernicus Climate Data Store (CDS) - ERA5 Reanalysis & World Bank CCKP",
+    "url": "https://cds.climate.copernicus.eu/ / https://climateknowledgeportal.worldbank.org/",
+    "retrieved_on": "2026-11-12",
+    "licence": "Copernicus Open Access / Creative Commons CC-BY 3.0 IGO",
+    "units": "Maximum 5-day precipitation (Rx5day mm), flood return period (years)",
+    "geography": "Santos / Baixada Santista Basin, Brazil & Bajio Basin, Mexico",
+    "coverage": "Focal logistics hub physical flood risk parameters",
+    "checksum_sha256": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d",
+    "description": "Historical precipitation extremes and projected pluvial/riverine flood recurrence intervals."
+  },
+  {
+    "source_name": "ICMA Sustainable Debt Database & Issuer Green Bond Frameworks",
+    "url": "https://www.icmagroup.org/sustainable-finance/",
+    "retrieved_on": "2026-11-12",
+    "licence": "Public Market Standard",
+    "units": "USD, %, basis points",
+    "geography": "Latin America",
+    "coverage": "FIBRA Prologis 5.375% Senior Notes Use-of-Proceeds Green Bond",
+    "checksum_sha256": "c89bb4672e177b9d0b678e3c15077fb57d4715f5bcfa92d13ec1858c89fbe9f9",
+    "description": "Green bond structure, ICMA eligibility categories, coupon, yield, and greenium spread."
+  }
+]

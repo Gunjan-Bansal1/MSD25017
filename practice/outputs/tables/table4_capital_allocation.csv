@@ -1,0 +1,5 @@
+ticker,company_name,score,recommended_weight
+017-01-FIBRAPL,FIBRA Prologis (Logistics REIT),0.051,0.283
+017-03-FUNO11,Fibra Uno (Industrial REIT),0.015,0.273
+017-04-CCRO3,CCR S.A. (Transport and Logistics),-0.165,0.224
+017-02-RAIL3,Rumo S.A. (Rail and Intermodal),-0.181,0.22

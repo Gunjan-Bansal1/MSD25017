@@ -1,0 +1,5 @@
+case,eal,p95,p99
+no_action,1.372,13.845,22.753
+adaptation,0.795,8.03,13.196
+insurance,0.458,2.0,10.753
+combined,0.199,2.0,2.0

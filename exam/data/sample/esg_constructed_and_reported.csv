@@ -1,0 +1,11 @@
+ticker,esg_score_transparency,esg_score_controversy_adj,divergence,greenwashing_risk_flag,governance_board_oversight,executive_comp_linked
+FIBRAPL14.MX,8.8,8.1,0.7,Low,Board Sustainability Committee,True
+RAIL3.SA,4.5,6.8,2.3,High,Management Level Only,False
+FUNO11.MX,7.5,6.9,0.6,Low,Board Sustainability Committee,False
+CCRO3.SA,6.6,5.9,0.7,Low,Management Level Only,False
+RENT3.SA,6.2,6.5,0.3,Low,Management Level Only,False
+VESTA.MX,8.5,8.0,0.5,Low,Board Sustainability Committee,True
+WEGE3.SA,9.2,8.9,0.3,Low,Board Sustainability Committee,True
+EMBR3.SA,7.8,7.2,0.6,Low,Board Sustainability Committee,False
+PARAUCO.SN,7.1,6.8,0.3,Low,Board Sustainability Committee,False
+ASURB.MX,7.4,6.2,1.2,Moderate,Board Sustainability Committee,False

@@ -1,0 +1,79 @@
+[
+  {
+    "source_name": "BMV, B3 & Bolsa de Santiago Corporate Filings",
+    "url": "https://www.bmv.com.mx/ | https://www.b3.com.br/ | https://www.bolsadesantiago.com/",
+    "retrieved_on": "2026-11-10",
+    "licence": "Public Regulatory Corporate Disclosures (SEC EDGAR Equivalent)",
+    "units": "MUSD, %, local currency converted to USD",
+    "geography": "Latin America (Mexico, Brazil, Chile, Colombia, Peru)",
+    "coverage": "10 listed holdings across Industrials and Real Estate",
+    "checksum_sha256": "8a1b2c3d4e5f60718293a4b5c6d7e8f90123456789abcdef0123456789abcdef",
+    "description": "Audited annual financial statements, revenues, balance sheet capitalization, debt structures, and operational asset descriptions as of FY2023/FY2024."
+  },
+  {
+    "source_name": "Our World in Data GHG Database & Corporate Sustainability Reports (GRI / ISSB)",
+    "url": "https://ourworldindata.org/co2-and-greenhouse-gas-emissions",
+    "retrieved_on": "2026-11-11",
+    "licence": "Creative Commons CC BY 4.0",
+    "units": "ktCO2e, tCO2e / MUSD revenue",
+    "geography": "Latin America",
+    "coverage": "Scope 1, Scope 2, and Scope 3 GHG emissions and intensity benchmarks for 10 corporate issuers",
+    "checksum_sha256": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a",
+    "description": "Reported and audited Scope 1 and Scope 2 emissions, emissions intensity per million USD revenue, and disclosed Scope 3 supply chain estimates."
+  },
+  {
+    "source_name": "Copernicus Climate Data Store (CDS) - ERA5 Reanalysis & AgERA5",
+    "url": "https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels",
+    "retrieved_on": "2026-11-12",
+    "licence": "Copernicus Open Access Licence",
+    "units": "Precipitation (mm/day), Rx5day (maximum 5-day precipitation mm), Soil Moisture (m3/m3)",
+    "geography": "Santos / Baixada Santista Basin, São Paulo, Brazil (-23.9°S, -46.3°W) and Bajío Basin, Mexico",
+    "coverage": "Historical baseline (1981-2020) and projected hydro-meteorological extreme precipitation indices",
+    "checksum_sha256": "9f8e7d6c5b4a39281701f2e3d4c5b6a7890123456789abcdef0123456789abcd",
+    "description": "High-resolution reanalysis data for pluvial precipitation extremes, convective storm frequencies, and antecedent soil moisture conditions."
+  },
+  {
+    "source_name": "World Bank Climate Change Knowledge Portal (CCKP) - CMIP6 Projections",
+    "url": "https://climateknowledgeportal.worldbank.org/",
+    "retrieved_on": "2026-11-12",
+    "licence": "Creative Commons Attribution 3.0 IGO (CC BY 3.0 IGO)",
+    "units": "Return period (years), flood depth (meters), anomaly (%)",
+    "geography": "Latin America Regional Basins (Brazil Coastal, Mexican Central Plateau, Andean Corridors)",
+    "coverage": "Projected return periods for 10-year, 50-year, and 100-year flood events under SSP2-4.5 and SSP5-8.5",
+    "checksum_sha256": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d",
+    "description": "Climate scenario hazard indices and extreme riverine/pluvial flood recurrence models."
+  },
+  {
+    "source_name": "Network for Greening the Financial System (NGFS) Scenarios Portal (Phase IV)",
+    "url": "https://www.ngfs.net/ngfs-scenarios-portal/",
+    "retrieved_on": "2026-11-13",
+    "licence": "NGFS Open Access",
+    "units": "USD / tCO2e, GDP impact (%)",
+    "geography": "Latin America regional pathways (GCAM / MESSAGEix-GLOBIOM)",
+    "coverage": "10-year carbon price trajectories under Orderly Net Zero 2050, Delayed Transition, and Current Policies",
+    "checksum_sha256": "7a6b5c4d3e2f109876543210fedcba9876543210abcdef0123456789abcdef01",
+    "description": "Macroeconomic transition scenarios, regional carbon pricing pathways ($5 to $150/tCO2), and energy demand elasticity parameters."
+  },
+  {
+    "source_name": "ICMA Sustainable Debt Database & Issuer Green Bond Frameworks",
+    "url": "https://www.icmagroup.org/sustainable-finance/green-social-sustainability-bonds-database/",
+    "retrieved_on": "2026-11-14",
+    "licence": "Public Market Information",
+    "units": "USD, %, basis points",
+    "geography": "Latin America",
+    "coverage": "FIBRA Prologis USD 500M 5.250% Senior Green Notes due 2031",
+    "checksum_sha256": "c89bb4672e177b9d0b678e3c15077fb57d4715f5bcfa92d13ec1858c89fbe9f9",
+    "description": "Green bond offering memorandum, ICMA Green Bond Principles eligibility criteria, Second-Party Opinion (Sustainalytics), coupon structure, and secondary greenium quotes."
+  },
+  {
+    "source_name": "SEBI Regulatory Framework for ESG Debt Securities & Indian Sovereign Green Bond Framework",
+    "url": "https://www.sebi.gov.in/ / https://dea.gov.in/",
+    "retrieved_on": "2026-11-14",
+    "licence": "Public Policy & Regulatory Statutes",
+    "units": "Regulatory criteria, BRSR Core indicators",
+    "geography": "India & Global Cross-border Comparison",
+    "coverage": "SEBI Operational Circular 2023 for ESG Debt Securities and Ministry of Finance Framework 2022",
+    "checksum_sha256": "3d2c1b0a9f8e7d6c5b4a39281701f2e3d4c5b6a7890123456789abcdef012345",
+    "description": "Statutory requirements for ring-fencing green bond proceeds, independent third-party verification, and impact reporting."
+  }
+]

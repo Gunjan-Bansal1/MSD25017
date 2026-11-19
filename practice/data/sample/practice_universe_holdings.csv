@@ -1,0 +1,5 @@
+ticker,company_name,sector,region,country,revenue_musd,weight,emis_intensity_tco2_per_musd,physical_exposure,transition_exposure,primary_channel,hazard_index,score_A,score_B
+017-01-FIBRAPL,FIBRA Prologis (Logistics REIT),Real estate,Latin America,Mexico,3450.0,0.25,95.0,0.82,0.25,physical,0.85,8.8,8.1
+017-02-RAIL3,Rumo S.A. (Rail and Intermodal),Industrials,Latin America,Brazil,11200.0,0.25,520.0,0.74,0.85,transition,0.78,4.2,6.8
+017-03-FUNO11,Fibra Uno (Industrial REIT),Real estate,Latin America,Mexico,4800.0,0.25,140.0,0.71,0.32,physical,0.70,7.5,6.9
+017-04-CCRO3,CCR S.A. (Transport and Logistics),Industrials,Latin America,Brazil,7900.0,0.25,310.0,0.65,0.68,transition,0.62,6.4,5.8

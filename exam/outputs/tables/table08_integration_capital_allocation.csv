@@ -1,0 +1,11 @@
+ticker,company_name,sector,country,cavrs_score,benchmark_weight,recommended_weight,active_tilt_pct,recommendation
+FIBRAPL14.MX,FIBRA Prologis,Real estate,Mexico,0.072,0.1,0.1295,2.95,Overweight
+RAIL3.SA,Rumo S.A.,Industrials,Brazil,-0.166,0.1,0.0391,-6.09,Underweight / Engage
+FUNO11.MX,Fibra Uno,Real estate,Mexico,0.029,0.1,0.1106,1.06,Neutral / Hold
+CCRO3.SA,CCR S.A.,Industrials,Brazil,-0.067,0.1,0.0683,-3.17,Underweight / Engage
+RENT3.SA,Localiza Fleet Logistics,Industrials,Brazil,-0.022,0.1,0.0881,-1.19,Neutral / Hold
+VESTA.MX,Corporacion Inmobiliaria Vesta,Real estate,Mexico,0.09,0.1,0.1374,3.74,Overweight
+WEGE3.SA,WEG S.A.,Industrials,Brazil,0.189,0.1,0.181,8.1,Overweight
+EMBR3.SA,Embraer S.A.,Industrials,Brazil,-0.148,0.1,0.0391,-6.09,Underweight / Engage
+PARAUCO.SN,Parque Arauco S.A.,Real estate,Chile,0.062,0.1,0.1251,2.51,Overweight
+ASURB.MX,Grupo Aeroportuario del Sureste (ASUR),Industrials,Mexico,-0.037,0.1,0.0815,-1.85,Neutral / Hold

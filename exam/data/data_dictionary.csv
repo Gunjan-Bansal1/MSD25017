@@ -1,0 +1,30 @@
+field_name,data_type,unit,source,notes_and_derivation
+ticker,string,N/A,Course Roster / Exchange Listings,Primary trading ticker with regional exchange suffix (.MX, .SA, .SN)
+company_name,string,N/A,Issuer Disclosures,Official corporate legal name
+sector,string,N/A,GICS Classification,Assigned sector: 'Real estate' or 'Industrials'
+sub_industry,string,N/A,GICS Classification,Specific industrial sub-sector (e.g. Industrial REIT, Rail Freight, Concessions, Capital Goods)
+country,string,N/A,Corporate Headquarters,Primary operating jurisdiction in Latin America (Mexico, Brazil, Chile/Peru/Colombia)
+revenue_musd,float,MUSD,FY2023 Audited Financial Statements,Annual top-line gross revenue in millions USD
+ebitda_margin,float,percentage,Financial Statements,Earnings before interest, taxes, depreciation, and amortization divided by revenue
+market_cap_musd,float,MUSD,Market Pricing Nov 2026,Market capitalization in millions USD
+enterprise_value_musd,float,MUSD,Financial Statements,Market capitalization plus total debt minus cash and cash equivalents
+benchmark_weight,float,proportion,Mandate Specification,Equal-weighted universe benchmark weight (10 holdings = 0.10 each)
+scope1_emis_kt,float,ktCO2e,Corporate Sustainability Reports,Direct greenhouse gas emissions from owned/controlled sources
+scope2_emis_kt,float,ktCO2e,Corporate Sustainability Reports,Indirect greenhouse gas emissions from purchased electricity/heating
+scope12_intensity_tco2_musd,float,tCO2 / MUSD,Derived Metric,(scope1_emis_kt + scope2_emis_kt) * 1000 / revenue_musd
+scope3_disclosed,boolean,boolean,Corporate Reports,Indicates whether Scope 3 upstream/downstream emissions are disclosed
+physical_flood_hazard_score,float,score 0-1,Copernicus CDS / World Bank CCKP,Asset location flood peril index based on 5-day max rainfall and elevation
+transition_vulnerability_score,float,score 0-1,Sector Energy & Carbon Audit,Sensitivity to carbon pricing escalation and low-carbon capex requirements
+primary_channel,string,category,Derived Classification,Primary transmission channel: 'physical' or 'transition'
+transmission_mechanism,string,narrative,Financial Analysis,Summary of economic transmission from climate peril to cash flows
+esg_score_transparency,float,score 0-10,Constructed Scoring Model,Quantitative score evaluating completeness and quality of ESG disclosures
+esg_score_controversy_adj,float,score 0-10,Constructed Scoring Model,Score adjusted for regulatory controversies, labor audits, and transition governance
+esg_divergence,float,points,Derived Metric,Absolute delta between transparency score and controversy-adjusted score
+carbon_penalty,float,score 0-1,Derived Metric,Normalized carbon intensity penalty relative to universe maximum
+dcf_ev_baseline_musd,float,MUSD,Discounted Cash Flow Model,Enterprise value under Current Policies ($5/tCO2)
+dcf_ev_orderly_musd,float,MUSD,Discounted Cash Flow Model,Enterprise value under NGFS Orderly Net Zero 2050 ($120/tCO2)
+dcf_transition_impact_pct,float,percentage,Derived Metric,(dcf_ev_orderly_musd / dcf_ev_baseline_musd - 1) * 100
+cavrs_score,float,score,Multi-Criteria Model,Composite Climate-Adjusted Value & Resilience Score (0.35*ESG + 0.25*Val - 0.20*Carbon - 0.20*Physical)
+recommended_weight,float,proportion,Portfolio Optimizer,Constrained active portfolio weight (sum to 1.00)
+active_over_under,float,percentage,Derived Metric,(recommended_weight - benchmark_weight) * 100
+recommendation,string,category,Decision Engine,Actionable investment recommendation: 'Overweight', 'Neutral/Hold', or 'Underweight/Engage'

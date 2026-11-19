@@ -1,0 +1,5 @@
+Strategy,EAL (MUSD),P95 Tail (MUSD),P99 Tail (MUSD),Tail Reduction (%),20-Yr Net Benefit / NPV,Basis Risk Indicator
+1. No Action (Baseline),$3.471M,$33.863M,$55.839M,0.0% (Unmitigated),$0.00M,N/A
+2. Structural Adaptation,$1.909M,$18.625M,$30.711M,-45.0%,$-2.60M,Zero (Physical Shield)
+3. Parametric Insurance,$1.140M,$5.000M,$25.839M,-73.3%,$+1.29M,$1.140M (Deductible/Tail)
+4. Layered Combined Resilience,$0.507M,$5.000M,$5.000M,-87.9%,$-3.95M,$0.507M (Optimized)

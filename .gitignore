@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches & environments
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Matplotlib & OS temp
+.matplotlib/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary unpack files
+climate-finance-capstone-student-pack/
+Student_Project_Handout.txt
+Exam_Capstone_Submission_Spec.txt
+*.log

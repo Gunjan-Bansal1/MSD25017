@@ -1,0 +1,19 @@
+field_name,data_type,unit,source,notes_and_derivation
+ticker,string,N/A,Course Roster / Issuer Filings,Unique assigned identifier and ticker symbol
+company_name,string,N/A,Issuer Disclosures,Full legal name of the entity
+sector,string,N/A,GICS / Course Specification,Assigned sector: Industrials or Real Estate
+region,string,N/A,Course Specification,Assigned geographic region: Latin America
+country,string,N/A,Issuer Headquarters,Primary operating jurisdiction (Mexico or Brazil)
+revenue_musd,float,MUSD,Annual Financial Statements 2023,Latest reported annual revenue in millions USD
+weight,float,proportion,Benchmark Portfolio Mandate,Benchmark portfolio weight (equal weight = 0.25)
+emis_intensity_tco2_per_musd,float,tCO2 / MUSD,Sustainability Disclosures / Imputed,Scope 1 + Scope 2 emissions intensity per million USD revenue
+physical_exposure,float,score 0-1,Geospatial Hazard Analysis,Evaluated exposure to acute pluvial and riverine flooding (0 to 1 scale)
+transition_exposure,float,score 0-1,Carbon Intensity & Capex Review,Evaluated sensitivity to carbon price escalation and fuel switching (0 to 1 scale)
+primary_channel,string,N/A,Derived Category,Primary financial transmission channel: 'physical' or 'transition'
+hazard_index,float,index 0-1,Copernicus CDS / World Bank CCKP,Asset location flood risk score (precipitation excess and basin elevation)
+score_A,float,score 0-10,Corporate Disclosures / Sustainability Reports,Constructed transparency score based on disclosure completeness and targets
+score_B,float,score 0-10,Independent ESG Audits & Controversy Feeds,Controversy-adjusted ESG rating reflecting operational compliance and labor/community risks
+divergence,float,points,Derived Metric,Absolute divergence between Score A and Score B (|score_A - score_B|)
+carbon_penalty,float,normalized 0-1,Derived Metric,Normalized emissions intensity penalty (emis_intensity / max_intensity)
+score,float,score,Derived Metric,Composite Climate-Adjusted Value & Resilience Score (CAVRS): 0.4*ESG - 0.3*Carbon - 0.3*Physical
+recommended_weight,float,proportion,Optimization Model,Active recommended portfolio weight based on CAVRS score

@@ -1,0 +1,15 @@
+name: climate-risk-msd25017-exam
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.10
+  - numpy>=1.24.0
+  - pandas>=2.0.0
+  - matplotlib>=3.7.0
+  - seaborn>=0.12.0
+  - scipy>=1.10.0
+  - pytest>=7.0.0
+  - pip:
+      - PyMuPDF>=1.23.0
+      - python-pptx>=0.6.21

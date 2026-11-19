@@ -1,0 +1,11 @@
+ticker,company_name,sector,sub_industry,country,revenue_musd,market_cap_musd,enterprise_value_musd,benchmark_weight
+FIBRAPL14.MX,FIBRA Prologis,Real estate,Logistics & Industrial REIT,Mexico,3450.0,4120.0,5680.0,0.1
+RAIL3.SA,Rumo S.A.,Industrials,Rail Freight & Intermodal Logistics,Brazil,11200.0,8950.0,14200.0,0.1
+FUNO11.MX,Fibra Uno,Real estate,Industrial & Diversified REIT,Mexico,4800.0,5850.0,9400.0,0.1
+CCRO3.SA,CCR S.A.,Industrials,Toll Roads & Airport Concessions,Brazil,7900.0,6200.0,11800.0,0.1
+RENT3.SA,Localiza Fleet Logistics,Industrials,Commercial Fleet Logistics,Brazil,6400.0,9800.0,15600.0,0.1
+VESTA.MX,Corporacion Inmobiliaria Vesta,Real estate,Industrial Logistics Development,Mexico,2150.0,3200.0,4350.0,0.1
+WEGE3.SA,WEG S.A.,Industrials,Electrical Capital Goods,Brazil,9300.0,24500.0,23900.0,0.1
+EMBR3.SA,Embraer S.A.,Industrials,Aerospace & Industrial Logistics,Brazil,5600.0,4900.0,6100.0,0.1
+PARAUCO.SN,Parque Arauco S.A.,Real estate,Commercial & Urban Logistics REIT,Chile,1850.0,2400.0,3700.0,0.1
+ASURB.MX,Grupo Aeroportuario del Sureste (ASUR),Industrials,Airport Cargo & Terminal Infrastructure,Mexico,2600.0,5600.0,6250.0,0.1

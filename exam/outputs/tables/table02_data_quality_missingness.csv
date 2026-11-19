@@ -1,0 +1,7 @@
+Data Dimension,Coverage,Missingness,Verification,Input Type
+Financial Statements & Revenue,100.0% (10/10),0.0%,Audited Annual Filings (BMV/B3/BVS),Observed
+Scope 1 & 2 Emissions,100.0% (10/10),0.0%,GRI / ISSB Disclosures + Baseline Imputation,Observed / Imputed
+Scope 3 Supply Chain,70.0% (7/10),30.0%,Self-Disclosed (3 issuers missing),Estimated / Gap Flagged
+Geospatial Flood Peril Score,100.0% (10/10),0.0%,Copernicus ERA5 & World Bank CCKP,Modeled Reanalysis
+Constructed ESG Transparency,100.0% (10/10),0.0%,Audited Scoring Rubric,Constructed Metric
+Green Bond Covenant Tracking,100.0% (Focal Bond),0.0%,Sustainalytics SPO + Offering Memo,Observed Standard
