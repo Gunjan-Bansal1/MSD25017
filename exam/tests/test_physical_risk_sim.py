@@ -21,3 +21,4 @@ def test_physical_flood_sim():
     p95_no_action = np.percentile(arrs["no_action"], 95)
     p95_combined = np.percentile(arrs["combined"], 95)
     assert p95_combined < p95_no_action, "P95 tail loss must be compressed"
+

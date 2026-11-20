@@ -65,3 +65,4 @@ $$\text{CAVRS}_i = 0.35 \times \text{ESG}_i + 0.25 \times \text{ValuationTransit
 
 > **MANDATORY DISCLAIMER:**  
 > This analytical model was developed solely for academic credit in *Climate Risk, Value, and Investing (Academic Year 2026)*. All ESG scores, vulnerability indices, and composite allocation weights are transparently constructed academic proxies and do not reflect proprietary ratings from MSCI, S&P, or Sustainalytics. The model output does not constitute an offer, solicitation, or recommendation to purchase or sell any security.
+

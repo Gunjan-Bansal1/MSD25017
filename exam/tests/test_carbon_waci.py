@@ -25,3 +25,4 @@ def test_sector_emissions_bifurcation():
     ind_intensity = df[df["sector"] == "Industrials"]["scope12_intensity_tco2_musd"].mean()
     re_intensity = df[df["sector"] == "Real estate"]["scope12_intensity_tco2_musd"].mean()
     assert ind_intensity > re_intensity, "Industrials should exhibit higher average carbon intensity than Real Estate"
+

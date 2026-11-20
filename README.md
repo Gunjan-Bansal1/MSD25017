@@ -122,3 +122,4 @@ python run_all.py
 - **Tools & Purpose:** Google DeepMind Agent was employed as an interactive pair-programmer and workflow accelerator for code scaffolding, vector algebra verification, PyMuPDF PDF formatting, and cross-border regulatory comparisons.
 - **Verification:** Every formula (DCF discounting, PCAF WACI weighted summation, Monte Carlo exceedance curves, bond pricing cashflows) was independently checked and validated from first principles. Unit tests with strict assertions guarantee that no simulated numbers were presented as audited disclosures.
 - **Claim Boundary:** Prepared strictly for academic evaluation in *Climate Risk, Value, and Investing (Academic Year 2026)*. Does not constitute official investment advice, credit rating certification, or commercial fund promotion.
+

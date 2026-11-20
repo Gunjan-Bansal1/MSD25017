@@ -129,3 +129,4 @@ if __name__ == "__main__":
     tab, arrs = simulate_physical_flood_risk()
     print("=== Focal Logistics Megahub Flood Risk Transfer Comparison ===")
     print(tab.to_string(index=False))
+

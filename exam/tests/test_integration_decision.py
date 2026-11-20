@@ -28,3 +28,4 @@ def test_integration_and_portfolio_rebalance():
     top_overweight = df_opt.sort_values("active_tilt_pct", ascending=False).iloc[0]
     assert top_overweight["recommendation"] == "Overweight"
     assert top_overweight["active_tilt_pct"] > 0
+

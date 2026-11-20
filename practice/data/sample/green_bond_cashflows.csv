@@ -5,3 +5,4 @@ year,face_value_usd,base_coupon_rate,penalty_coupon_rate,base_cashflow_usd,penal
 4,100.0,0.050,0.0525,5.0,5.25,0.8386,4.193,4.403
 5,100.0,0.050,0.0525,105.0,105.25,0.8025,84.258,84.459
 total,100.0,N/A,N/A,125.0,126.25,N/A,102.196,103.295
+

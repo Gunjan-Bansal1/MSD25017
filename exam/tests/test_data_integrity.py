@@ -28,3 +28,4 @@ def test_integrated_panel_generation():
     assert len(panel) == 10
     assert "copernicus_rx5day_mm" in panel.columns
     assert "divergence" in panel.columns
+

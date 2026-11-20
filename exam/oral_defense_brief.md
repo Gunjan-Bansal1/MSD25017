@@ -101,3 +101,4 @@ If the examiner asks: *"What evidence would cause you to abandon your recommenda
 1. **Abandon Rumo Underweight:** If Rumo signs a binding EPC contract with federal co-financing to build concrete flood retention dykes along the Santos corridor and secures third-party validation for its locomotive hybridization program.
 2. **Liquidate Green Bond:** If post-issuance assurance audits uncover that green bond proceeds were co-mingled with general corporate treasury funds or redirected to non-certified brownfield assets.
 3. **Downgrade FIBRA Prologis:** If macroeconomic nearshoring deceleration forces landlords to convert triple-net (NNN) leases into gross leases, exposing the REIT to direct carbon taxation volatility.
+

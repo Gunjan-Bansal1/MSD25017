@@ -21,3 +21,4 @@ def test_tornado_ranking():
     tornado_df = compute_tornado_sensitivity(prologis_row)
     assert len(tornado_df) == 4
     assert (tornado_df["swing"] >= 0).all()
+

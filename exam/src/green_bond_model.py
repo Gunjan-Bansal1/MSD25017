@@ -98,3 +98,4 @@ if __name__ == "__main__":
     print("=== Green Bond Pricing & Financial Analysis ===")
     for k, v in m.items():
         print(f"  {k:45}: {v}")
+

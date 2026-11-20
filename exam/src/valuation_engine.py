@@ -114,3 +114,4 @@ if __name__ == "__main__":
     df = load_holdings_universe()
     val_df = evaluate_universe_valuations(df)
     print(val_df[["ticker", "ev_baseline_musd", "ev_orderly_musd", "impact_orderly_pct", "impact_zero_passthrough_pct"]].to_string(index=False))
+

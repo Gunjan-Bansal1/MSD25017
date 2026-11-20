@@ -21,3 +21,4 @@ This coverage map explicitly documents where each of the six course blocks is ev
 - **All six blocks evidenced:** Yes (asserted in `exam/tests/` and runnable notebooks).
 - **All ten deliverables present:** Yes (Scope card, Coverage map, Code, Provenance, Validation, Model card, Decision memo, Dashboard, Presentation, Oral defense brief).
 - **Execution runtime:** Top-to-bottom pipeline executes in < 15 seconds on committed sample datasets with fixed seeds.
+

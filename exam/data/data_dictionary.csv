@@ -28,3 +28,4 @@ cavrs_score,float,score,Multi-Criteria Model,Composite Climate-Adjusted Value & 
 recommended_weight,float,proportion,Portfolio Optimizer,Constrained active portfolio weight (sum to 1.00)
 active_over_under,float,percentage,Derived Metric,(recommended_weight - benchmark_weight) * 100
 recommendation,string,category,Decision Engine,Actionable investment recommendation: 'Overweight', 'Neutral/Hold', or 'Underweight/Engage'
+

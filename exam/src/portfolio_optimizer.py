@@ -108,3 +108,4 @@ if __name__ == "__main__":
     print("\n=== Portfolio Diagnostics ===")
     for k, v in diag.items():
         print(f"  {k:40}: {v}")
+

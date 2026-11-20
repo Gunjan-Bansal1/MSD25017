@@ -19,3 +19,4 @@ def test_taxonomy_alignment_elements():
     audit_df = evaluate_taxonomy_alignment()
     assert len(audit_df) == 4, "Must cover all 4 ICMA GBP core pillars"
     assert "SEBI ESG Framework / Indian Benchmark" in audit_df.columns
+

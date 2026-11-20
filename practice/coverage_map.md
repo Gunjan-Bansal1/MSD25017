@@ -20,3 +20,4 @@ This coverage map explicitly documents where each of the six course blocks is ev
 - **All six blocks evidenced:** Yes (asserted via cell 25 in `practice_capstone_starter.ipynb`).
 - **Reproducible outputs present:** All 2 figures and 4 tables saved in `outputs/`.
 - **Decision memo completed:** `decision_memo.pdf` (3 pages).
+

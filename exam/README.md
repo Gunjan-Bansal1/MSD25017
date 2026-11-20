@@ -93,3 +93,4 @@ In compliance with Section 7 of the Exam Capstone Specification, actual student 
 - **Independent Student Verification:** The student independently checked every formula, mathematical derivation, DCF cash flow schedule, and optimization constraint from first principles. Unit tests with strict assertions guarantee that no simulated numbers were presented as audited disclosures.
 - **Errors Identified & Corrected:** Corrected a parameter mismatch in PyMuPDF textbox formatting; adjusted portfolio weight clipping to prevent cash drag and maintain 100% active allocation; reconciled green bond cash flows to reflect both greenium yield discounts and covenant penalty step-ups.
 - **Claim Boundary:** Prepared strictly for academic evaluation in *Climate Risk, Value, and Investing (Academic Year 2026)*. Does not constitute official investment advice, credit rating certification, or commercial fund promotion.
+

@@ -81,3 +81,4 @@ if __name__ == "__main__":
     summary_df, waci = compute_portfolio_carbon_metrics(df)
     print(f"Computed WACI: {waci:.1f} tCO2/MUSD")
     print(summary_df.to_string(index=False))
+

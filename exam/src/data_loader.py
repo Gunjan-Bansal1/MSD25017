@@ -51,3 +51,4 @@ def build_integrated_panel():
 if __name__ == "__main__":
     p = build_integrated_panel()
     print(f"Built integrated panel with {len(p)} holdings and {len(p.columns)} features.")
+

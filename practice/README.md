@@ -84,3 +84,4 @@ practice/
 - **Independent Verification:** The student verified every formula and calculation from first principles (DCF algebra, WACI weighted summation, 20,000-draw Monte Carlo exceedance logic, bond cash-flow discounting). Unit tests with strict assertions guarantee that no simulated numbers were presented as audited disclosures.
 - **Errors Identified & Corrected:** Initial boilerplate code utilized non-interactive matplotlib blocking calls during automated testing; corrected to configure headless Agg rendering. Bond pricing formulas were reconciled to account for both coupon step-ups and greenium yield discounts.
 - **Claim Boundary:** This project was prepared for academic credit in *Climate Risk, Value, and Investing (Academic Year 2026)*. It is an educational analytical model, not official investment advice, and does not claim certified emissions reduction credits or production asset management deployment.
+

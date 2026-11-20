@@ -17,3 +17,4 @@ divergence,float,points,Derived Metric,Absolute divergence between Score A and S
 carbon_penalty,float,normalized 0-1,Derived Metric,Normalized emissions intensity penalty (emis_intensity / max_intensity)
 score,float,score,Derived Metric,Composite Climate-Adjusted Value & Resilience Score (CAVRS): 0.4*ESG - 0.3*Carbon - 0.3*Physical
 recommended_weight,float,proportion,Optimization Model,Active recommended portfolio weight based on CAVRS score
+

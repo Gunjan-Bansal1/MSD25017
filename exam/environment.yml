@@ -13,3 +13,4 @@ dependencies:
   - pip:
       - PyMuPDF>=1.23.0
       - python-pptx>=0.6.21
+
